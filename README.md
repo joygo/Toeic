@@ -1,2 +1,0 @@
-# Web_Practice
-WebDesignPractice
